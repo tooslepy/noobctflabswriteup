@@ -17,7 +17,7 @@
  On the third CTF we land on a page with a qrcode and a loading bar. First we save the qrcode so we can read what it decodes to(do you decode qr files?). I used online-barcode-reader.inliteresearch.com to read the qrcode. Use whatever method suits you.
  ![CTF 3.1 Screenshot](CTF3.1.png)
  So the qrcode decodes to ".. -. ..-. --- ... . -.-. ..-. .-.. .- --. .. ... -- --- .-. ..... -. --." which looks like morse code. I decoded the morse code with morsecode.scphillips.com/translator.html?utm_source=hootsuite 
- ![CTF 3.1 Screenshot](CTF3.1.png)
+ ![CTF 3.1 Screenshot](CTF3.2.png)
  The morse code decode into "INFOSECFLAGISMOR5NG"
   
  ### [CTF4](http://ctf.infosecinstitute.com/levelfour.php)
