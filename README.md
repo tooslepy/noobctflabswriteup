@@ -27,7 +27,7 @@
  ![CTF 4.2 Screenshot](CTF4.2.png)
  There seems to be a cookie called fusrodah and the text is just seemingly random. 
  We know we're looking for a flag with the format of "infosec_flagis_something". The cookie has the same amount of letters so lets try to decode it. I used https://www.dcode.fr/rot-cipher to automaticly decode the text as it looked like a rot cypher as we know it has the same fromat as our flag.
- ![CTF 4.2 Screenshot](CTF4.2.png)
+ ![CTF 4.2 Screenshot](CTF4.3.png)
  The flag is "INFOSECFLAGISWELOVECOOKIES"
  
  ### [CTF5](http://ctf.infosecinstitute.com/levelfive.php)
